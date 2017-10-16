@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Beautiful Evaluation</string>
+
+    <string-array name="girlsName_array">
+        <item>Bae Suzy</item>
+        <item>Bruna Marquezine</item>
+        <item>Lily May Mac</item>
+        <item>Nana</item>
+        <item>Neelam Gill</item>
+        <item>Nyasha Matonhodze</item>
+        <item>Sara Sampaio</item>
+        <item>Sham Yen Yi</item>
+        <item>Zendaya</item>
+    </string-array>
+
+</resources>
